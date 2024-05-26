@@ -20,7 +20,10 @@
         </ListItem>
     </div>
 
+<!--
     <button class="w-full p-4 mt-8 border b-blue-200 rounded bg-blue-500 text-white flex items-center justify-center">
         Adicionar Contato
     </button>
+-->
+    <UIButton>Adicionar Contato</UIButton>
 </template>
